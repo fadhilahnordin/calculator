@@ -1,8 +1,8 @@
-let addition = function(x,y) {
+let addition = function(x, y) {
     return x + y;
 }
 
-let subtraction = fucntion(x, y) {
+let subtraction = function(x, y) {
     return x - y;
 }
 
